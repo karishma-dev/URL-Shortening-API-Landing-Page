@@ -90,6 +90,10 @@ nav hr{
     border: 1px solid var(--Gray);
     margin: 20px 0;
 }
+#resources{
+    padding-bottom: 25px;
+    border-bottom: 2px solid var(--Gray);
+}
 #nav-menu-btns{
     display: flex;
     flex-direction: column;
@@ -150,7 +154,7 @@ header{
     margin: 0;
     min-width: 350px;
 }
-h1{
+.header-text h2{
     font-size: 3.8rem;
     width: 100%;
 }
